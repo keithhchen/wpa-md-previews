@@ -104,3 +104,4 @@ Jensen Huang: 你对自动驾驶的未来充满信心，你认为这项技术将
 
 Elon Musk: 自动驾驶将极大地提高道路安全，并彻底改变我们的出行方式。未来的汽车将不仅仅是一辆车，而是一个移动的计算机平台。我相信，随着技术的进步和数据的积累，自动驾驶将成为未来的默认选择，甚至可能拯救无数生命。
     
+_原文链接：https://www.youtube.com/watch?v=43jeLOzPA2A&t=72s&pp=ygUYd2hlbiBlbG9uIHNob2NrZWQgamVzbm9u_
