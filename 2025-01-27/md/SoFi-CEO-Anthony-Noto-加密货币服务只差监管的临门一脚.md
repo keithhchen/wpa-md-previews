@@ -1,0 +1,69 @@
+# SoFi CEO Anthony Noto: 加密货币服务只差监管的临门一脚
+
+> 随着加密货币监管环境逐步明朗化,SoFi CEO Anthony Noto 在 Bloomberg Technology 节目中明确表态,若美国监管框架允许,公司将全力拓展加密金融服务。作为金融科技领域的资深领导者,Noto 的愿景不仅反映了行业趋势,也揭示了传统金融机构与新兴加密市场的融合潜力。这场对话为理解未来金融格局提供了重要视角。
+
+## 亮点
+- SoFi 首席执行官表示,如果美国监管允许,公司绝对会提供加密货币服务,包括交易、清算和资产支持贷款等领域。  
+- SoFi 计划在未来几年将大部分投资用于建立无辅助的品牌认知,目标是成为家喻户晓的信任品牌。  
+- SoFi 预计 2025 年将是公司历史上最好的年份,业务规模、知名度和资源均达到前所未有的水平。  
+- SoFi 的 40% 用户在 30 天内会使用第二项产品,显示出用户对产品的高度信任和持续需求。  
+- SoFi 的最大监管挑战是明确银行控股公司在加密货币领域的权限,预计相关法规将在未来 24 个月内出台。
+
+## SoFi CEO Anthony Noto 放话:只要监管放开,我们立马杀入加密货币市场
+在最近一期 Bloomberg Technology 的采访中,SoFi CEO Anthony Noto 直言不讳地谈到了公司未来的加密货币野心。面对主持人 Caroline Hyde 和 Mike Shepard 的追问,Noto 明确表示,只要美国监管机构对加密货币的合规性给出明确指引,SoFi 将毫不犹豫地重返这一领域。他提到,这不仅包括像比特币这样的主流加密货币的交易服务,还可能扩展到清算、结算甚至资产抵押贷款等更广泛的金融业务。
+
+Noto 的这番表态并非空穴来风。作为一家以金融科技为核心的公司,SoFi 一直在探索如何更好地服务其用户,尤其是在加密货币这一日益重要的资产类别上。尽管当前监管环境充满不确定性,但 Noto 对未来的信心依然坚定。他提到,公司在过去几年中已经积累了足够的技术和资源,一旦监管放开,SoFi 将迅速推出相关产品,满足用户的需求。
+
+值得注意的是,Noto 在采访中特别强调了监管透明度的关键性。他认为,目前市场最大的不确定性并非来自加密货币本身,而是来自监管机构的态度和政策。如果美国政府能够在未来 24 个月内给出明确的监管框架,SoFi 将有能力在这一领域迅速占据一席之地。
+
+## 加密货币:SoFi 眼中的下一个增长引擎
+SoFi 的 CEO Anthony Noto 在最近的采访中毫不掩饰地表达了对加密货币的野心。他指出,如果美国监管环境允许,SoFi 将毫不犹豫地重返加密货币市场,并将其作为核心业务之一。这不仅局限于投资者熟悉的比特币交易,SoFi 还计划布局更广泛的领域,包括加密货币的清算、资产支持贷款等。
+
+Noto 提到,当前加密货币市场的波动性并没有动摇 SoFi 的信心,反而成为其战略布局的一部分。他认为,未来的监管框架将为银行控股公司提供更清晰的指导,而这正是 SoFi 等待的契机。一旦政策明朗,SoFi 将迅速行动,推出包括交易、清算等在内的一系列服务,满足用户对加密货币投资的多样化需求。
+
+这一表态不仅揭示了 SoFi 在金融科技领域的战略方向,也反映出加密货币在传统金融体系中的渗透正在加速。对于 SoFi 来说,加密货币不仅仅是新的增长点,更是其未来业务版图中的关键一环。
+
+## 监管是唯一的拦路虎:SoFi 在等什么?
+在 Bloomberg Technology 的采访中,SoFi CEO Anthony Noto 毫不避讳地指出,当前加密货币领域最大的障碍并非技术或市场,而是监管政策的不确定性。他直言,银行控股公司在加密货币领域的活动范围亟待明确。这一问题的解决,直接关系到 SoFi 能否在这片蓝海中大展拳脚。Noto 呼吁政府和国会尽快出台清晰的政策框架,以便企业能够在合规的前提下,为消费者提供更多加密货币相关的金融服务。
+
+Noto 进一步解释,监管的不确定性不仅限制了企业的创新,也让消费者在投资加密货币时面临更多风险。他认为,银行控股公司如果能够在加密货币领域获得明确的许可,不仅可以提供更安全的交易环境,还能进一步拓展诸如清算、结算甚至资产抵押贷款等业务。这些服务的推出,将大幅提升用户在加密货币市场的投资体验。
+
+然而,政策制定的延迟意味着企业需要继续观望。Noto 表示,尽管 SoFi 已经为这一市场的开放做好了充分准备,但在监管政策落地之前,他们只能保持耐心等待。这种等待不仅考验企业的战略定力,也反映了整个行业对政策快速落地的迫切需求。
+
+## SoFi 的投资策略:不追求短期利润,押注长期增长
+SoFi 在 2024 年交出了一份亮眼的成绩单,营收和利润双双创下新高。然而,CEO Anthony Noto 并没有被短期的胜利冲昏头脑,相反,他强调公司将坚持稳健的投资策略,优先押注长期增长而非短期利润。这种策略的背后,是对未来市场机会的深刻洞察。尽管公司有足够的盈利能力,但 Noto 认为,继续将大量资金投入产品创新和品牌建设,才是确保未来持续增长的关键。
+
+在具体的投资布局上,SoFi 并没有选择将利润全部转化为短期回报,而是选择将更多资源投入到核心产品的差异化打造中。通过提升产品吸引力,公司能够进一步扩大用户群体,推动产品和用户的复合增长。这种长期的战略视角,不仅体现在对现有产品的优化上,也体现在对未来新技术的布局中,尤其是人工智能和加密货币领域的探索。Noto 明确表示,如果监管环境允许,SoFi 将毫不犹豫地重新进入加密货币市场,并在交易、清算等领域进行全面布局。
+
+这种以长期为导向的投资策略,背后是对市场变化的敏锐把握和对用户需求的深刻理解。在宏观环境不确定的背景下,SoFi 选择通过技术创新和产品优化来增强自身的竞争力,而不是追求短期的财务指标。这种策略不仅体现了公司对未来的信心,也为行业的长期发展提供了一种可借鉴的思路。
+
+## AI 不是 SoFi 的当前重点,品牌建设才是
+与其他科技公司对 AI 技术的狂热追捧不同,SoFi 的 CEO Anthony Noto 在采访中明确表示,短期内 AI 并不是公司的核心投入方向。相比之下,SoFi 把资源集中在品牌建设上,目标是成为家喻户晓的信任品牌。Noto 提到,未来的投资将主要用于提升品牌知名度和信任度,而非急于部署 AI 驱动的服务。这种策略背后是对产品差异化和用户信任的深度理解,SoFi 的核心逻辑是通过高质量的产品和服务,逐步建立用户的忠诚度,而非依靠技术噱头吸引短期关注。这种方式在当前的科技公司中并不多见,但也反映出 SoFi 对自身定位的清晰认知。
+
+在讨论 AI 的具体应用时,Noto 并没有回避这一话题,但他强调,SoFi 的重点在于如何通过已有的产品优势,进一步扩大市场份额。公司现有的产品已经表现出强大的用户粘性,超过 40% 的用户在 30 天内会使用第二个产品,这种增长更多依赖于产品本身的质量和用户体验,而非技术的堆砌。因此,SoFi 选择了一条更为务实的路径:先夯实品牌基础,再考虑技术的深度应用。这种策略或许在短期内显得保守,但从长期来看,可能会带来更为稳定和可持续的增长。
+
+## 2025 年将是 SoFi 的爆发之年吗?
+在 SoFi CEO Anthony Noto 的访谈中,他对 2025 年的展望充满信心。他指出,2025 年将是 SoFi 历史上最具突破性的一年。尽管 2024 年公司已经创下了收入、利润、会员增长和产品增长的多项记录,但 Noto 认为,2025 年将在创新和增长方面展现出更积极的姿态。公司计划在多个领域加大投资,包括品牌建设、产品差异化以及扩大投资产品的选择范围。这种战略布局不仅是为了巩固现有的市场份额,更是为了在未来的竞争中占据更有利的位置。Noto 强调,随着宏观环境的改善和公司资源的增加,SoFi 将进入一个更具创新性和持续增长的新阶段。
+
+谈到具体的发展方向,Noto 特别提到,SoFi 将继续推动会员增长和产品扩展,尤其是在投资领域。他指出,目前已有 40% 的会员在 30 天内使用第二款产品,而 30% 的产品增长来自现有会员。这种高黏性的用户基础为 SoFi 提供了强大的增长动力。此外,Noto 透露,公司将在人工智能、保险、信用卡以及中小型企业贷款等产品类别上加大投入,目标是让 SoFi 成为一个覆盖全方位金融需求的家喻户晓的品牌。
+
+然而,2025 年的成功并非没有挑战。Noto 坦言,监管环境仍然是一个关键的不确定因素,尤其是在加密货币领域。他表示,如果银行控股公司能够获得明确的加密货币业务许可,SoFi 将毫不犹豫地重新进入这一领域,并扩展至资产支持贷款等新业务。这种潜在的监管变化可能会为 SoFi 带来新的增长机会,但也需要公司在合规和创新之间找到平衡点。
+
+## 详细对话
+Caroline Hyde: Anthony, of the investment that you just describe, what portion of it will you be putting toward artificial intelligence? It's the topic at the top of everybody's minds and people are watching how companies are deploying it.  
+Anthony Noto: The vast majority of our investment going into 2025 and 26 will be in building unaided brand awareness, becoming a trusted household brand name.  
+Caroline Hyde: You want to be able to offer crypto again. And that's something that the administration talked a lot about. Look, on a day where we see such volatility, that engulfs crypto too, because of deep seek, is that really a product placement that you want to get into?  
+Anthony Noto: Again, if the regulations change so that cryptocurrency is permissible by bank holding companies, we would absolutely provide not just what we used to provide, which was the ability to safely and securely trade Bitcoin and other cryptocurrencies. But we'll also go on to other areas like cutting and clearing in addition to asset backed lending, etc.  
+Caroline Hyde: Anthony, back to the regulatory side of things, what is the one thing, one hurdle that you would like to see the new administration and Congress clear for you?  
+Anthony Noto: The biggest question is what will bank holding companies be allowed to do with cryptocurrency? What will be permissible? And that that clarity is really critically important.  
+
+---
+
+Caroline Hyde: Anthony, 关于你刚刚描述的投资计划,其中有多少会投入到人工智能领域?这是目前大家都在关注的话题,人们也在观察企业如何部署 AI。  
+Anthony Noto: 我们在 2025 和 2026 年的绝大部分投资都将用于建立自发的品牌认知,成为一个值得信赖的知名品牌。  
+Caroline Hyde: 你们希望再次提供加密货币服务。这是政府经常讨论的话题。在这样一个波动性很大的日子里,加密货币也受到波及,考虑到这些因素,这真的是你想要进入的领域吗?  
+Anthony Noto: 如果监管发生变化,使得银行控股公司可以提供加密货币服务,我们绝对会提供的,不仅仅是以前提供的安全交易比特币和其他加密货币的服务,我们还将扩展到清算、结算以及资产支持贷款等领域。  
+Caroline Hyde: Anthony, 回到监管方面,你最希望新一届政府和国会解决什么问题?  
+Anthony Noto: 最大的问题是银行控股公司被允许在加密货币领域做什么?什么是被允许的?这种监管的明确性确实至关重要。
+
+_原链接:https://www.youtube.com/watch?v=ffoJBccEIEU_
